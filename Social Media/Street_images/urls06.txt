@@ -1,0 +1,18 @@
+
+{'[1]Matching study areas using Google Street View - A new application for an emerging technology': 
+'https://www.sciencedirect.com/science/article/pii/S0149718915000890?via%3Dihub'}
+
+{'[3]Google Street View shows promise for virtual street tree surveys': 
+'https://www.sciencedirect.com/science/article/pii/S1618866716303181?via%3Dihub'}
+
+{'A machine learning-based method for the large-scale evaluation of the qulities of the urban environment': 
+'https://www.sciencedirect.com/science/article/pii/S0198971516301831?via%3Dihub'}
+
+{'Built environment and violent crime - An environmental audit approach using Google street view': 
+'https://www.sciencedirect.com/science/article/pii/S0198971516301065?via%3Dihub'}
+
+{'Measuring visual enclosure for street walkability - Using machine learning algorithms and Google Street View imagery': 
+'https://www.sciencedirect.com/science/article/pii/S0143622816304581?via%3Dihub'}
+
+{'Using Google Street View to Audit Neighborhood Environments': 
+'https://www.sciencedirect.com/science/article/pii/S0749379710005623'}

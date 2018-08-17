@@ -1,0 +1,27 @@
+
+{'[1]Dynamic assessments of population exposure to urban greenspace using multi-source big data': 
+'https://www.sciencedirect.com/science/article/pii/S0048969718312257?via%3Dihub'}
+
+{'[1]Identifying residential neighbourhood types from settlement points in a machine learning approach': 
+'https://www.sciencedirect.com/science/article/pii/S0198971517304210?via%3Dihub'}
+
+{'[1]Putting people in the picture - Combining big location-based social media data and remote sensing imagery for enhanced contextual urban information in Shanghai': 
+'https://www.sciencedirect.com/science/article/pii/S019897151630285X?via%3Dihub'}
+
+{'[1]Street as a big geo-data assembly and analysis unit in urban studies - A case study using Beijing taxi data': 
+'https://www.sciencedirect.com/science/article/pii/S0143622816301734?via%3Dihub'}
+
+{'[1]Using multi-source geospatial big data to identify the structure of polycentric cities': 
+'https://www.sciencedirect.com/science/article/pii/S0034425717302985?via%3Dihub'}
+
+{'[2]Exploring inter-country connection in mass media - A case study of China': 
+'https://www.sciencedirect.com/science/article/pii/S0198971516303313?via%3Dihub'}
+
+{'[2]Mining Trajectory Data and Geotagged Data in SocialMedia for Road Map Inference': 
+'https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12072'}
+
+{'[2]Spatial technology and social media in remote sensing -  challenges and opportunities': 
+'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8013176'}
+
+{'[2]The impact of using social media data in crime rate calculations shifting hot spots and changing spatial patterns': 
+'https://www.tandfonline.com/doi/abs/10.1080/15230406.2014.905756'}

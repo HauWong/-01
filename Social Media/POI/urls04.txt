@@ -1,0 +1,6 @@
+
+{'[1]Extracting urban functional regions from points of interest and human activities on location-based social networks': 
+'https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12289'}
+
+{'[1]Mining point-of-interest data form social networks for urban land use classification and disaggregation': 
+'https://www.sciencedirect.com/science/article/pii/S0198971514001355?via%3Dihub'}

@@ -1,0 +1,6 @@
+
+{'[1]Big data and urban system model - Substitutes or complements A case study of modelling commuting patterns in Beijing': 
+'https://www.sciencedirect.com/science/article/pii/S0198971517302971?via%3Dihub'}
+
+{'[1]Spatial context mining approach for transport mode recognition from mobile sensed big data': 
+'https://www.sciencedirect.com/science/article/pii/S0198971516304367?via%3Dihub'}

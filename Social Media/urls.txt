@@ -1,0 +1,21 @@
+
+{'[1]A multi-scaled agent-based model of residential segregation applied to a real metropolitan area': 
+'https://www.sciencedirect.com/science/article/pii/S0198971517302259?via%3Dihub'}
+
+{'[3]An integrated multifractal modelling to urban and regional planning': 
+'https://www.sciencedirect.com/science/article/pii/S0198971517302168?via%3Dihub'}
+
+{'[3]Social Set Analysis - A Set Theoretical Approach': 
+'https://ieeexplore.ieee.org/document/7462188/'}
+
+{'[4]The livehoods project - utilizing social media to understand the dynamics of a city': 
+'http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=F503DE3CE38C23F37695D7C377E63647?doi=10.1.1.365.7792'}
+
+{'[5]A large-scale location-based social network to understanding the impact of human geo-social interaction patterns on vaccination strategies in an urbanized area': 
+'https://www.sciencedirect.com/science/article/pii/S0198971517303551?via%3Dihub'}
+
+{'[5]Activity patterns mining in Wi-Fi access point logs': 
+'https://www.sciencedirect.com/science/article/pii/S0198971516300904?via%3Dihub'}
+
+{'[R]Spatial Technology and Social Media in Remote Sensing - Challenges and Opportunities': 
+'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8013176'}

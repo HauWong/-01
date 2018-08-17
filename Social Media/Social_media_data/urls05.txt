@@ -1,0 +1,51 @@
+
+{'[1]Delineating urban functional areas with building-level social media data - A dynamic time warping (DTW) distance based k-medoids method': 
+'https://www.sciencedirect.com/science/article/pii/S0169204616302675?via%3Dihub'}
+
+{'[1]Mining human mobility patterns from social geo-tagged data': 
+'https://www.sciencedirect.com/science/article/pii/S1574119216300700?via%3Dihub'}
+
+{'[1]Urban function connectivity - characterisation of functional urban streets with social media check-in data': 
+'https://www.sciencedirect.com/science/article/pii/S0264275116300531?via%3Dihub'}
+
+{'[1]Using locative social media and urban cartographies to identify and locate successful urban plazas': 
+'https://www.sciencedirect.com/science/article/pii/S026427511630854X?via%3Dihub'}
+
+{'[2]Extraction and analysis of city's tourism districts based on social': 
+'https://www.sciencedirect.com/science/article/pii/S0198971517302193?via%3Dihub'}
+
+{'[3]A multi-scale approach to exploring urban places in geotagged photograps': 
+'https://www.sciencedirect.com/science/article/pii/S0198971513001178?via%3Dihub'}
+
+{'[R]A Review of Volunteered Geographic Information for Disaster Management': 
+'https://onlinelibrary.wiley.com/doi/abs/10.1111/gec3.12213'}
+
+{'[R]A survey of techniques for event detection in twitter': 
+'http://rali.iro.umontreal.ca/rali/sites/default/files/publis/Atefeh_et_al-2013-Computational_Intelligence-2.pdf'}
+
+{'[R]An advanced systematic literature review on spatiotemporal analyses of twitter data': 
+'https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12132'}
+
+{'Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring': 
+'https://www.sciencedirect.com/science/article/pii/S0098300417306118?via%3Dihub'}
+
+{'Harvesting ambient geospatial information from social media feeds': 
+'https://link.springer.com/article/10.1007/s10708-011-9438-2'}
+
+{'Public participation in GIS via mobile applications': 
+'https://www.sciencedirect.com/science/article/pii/S092427161500101X?via%3Dihub'}
+
+{'Sensing and detecting traffic events using geosocial media data - a review': 
+'https://www.sciencedirect.com/science/article/pii/S0198971518300164?via%3Dihub'}
+
+{'Social media - new perspectives to improve remote sensing for emergency response': 
+'https://ieeexplore.ieee.org/document/7904672/'}
+
+{'Social media and the city - Rethinking urban socio-spatial inequality using user-generated geographic information': 
+'https://www.sciencedirect.com/science/article/pii/S0169204615000523?via%3Dihub'}
+
+{'The geography of Twitter topics in London': 
+'https://www.sciencedirect.com/science/article/pii/S0198971516300394?via%3Dihub'}
+
+{'Triangulating social multimedia content for event localization using Flickr and Twitter': 
+'https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12122'}

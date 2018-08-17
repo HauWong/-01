@@ -1,0 +1,6 @@
+
+{'[2]Crowdsourcing geospatial data': 
+'https://www.sciencedirect.com/science/article/pii/S0924271610000602?via%3Dihub'}
+
+{'[2]Assessing Completeness and Spatial Error of Features in Volunteered Geographic Information': 
+'http://www.mdpi.com/2220-9964/2/2/507'}
