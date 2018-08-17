@@ -1,0 +1,15 @@
+
+{'a co-training approach to the classification of local climate zones with multi-source data': 
+''}
+
+{'Classification of Local Climate Zones Based on Multiple Earth Obervation Data': 
+''}
+
+{'Classification of Local Climate Zones Using ASTER and Landsat Data for High-Density Cities': 
+''}
+
+{'Exploiting Earth Observation data products for Mapping Local Climate Zones': 
+''}
+
+{'Investigating the relationship between local climate': 
+''}
