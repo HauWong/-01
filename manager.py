@@ -42,15 +42,15 @@ class FileManager(object):
         if os.path.isdir(str):
             return
         file_name, file_ext = self.file.split('.')
-        dir_ls = os.listdir(path)
+        dir_ls = os.listdir(self.path)
         if file_ext != 'pdf':
             return
         elif file_name in dir_ls:
             return
-        elif file_name == path.split('\\')[-1]:
+        elif file_name == self.path.split('\\')[-1]:
             return
         else:
-            folder_name = os.path.join(path, file_name)
+            folder_name = os.path.join(self.path, file_name)
             os.mkdir(folder_name)
             shutil.move(str, os.path.join(folder_name, self.file))
             with open(os.path.join(folder_name, 'basic_info.txt'), 'w') as txt_f:
