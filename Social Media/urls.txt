@@ -23,3 +23,6 @@
 
 {'[R]Geography and the future of big data, big data and the future of geography': 
 'http://journals.sagepub.com/doi/10.1177/2043820613513121'}
+
+{'[R]Big data, little history': 
+'http://journals.sagepub.com/doi/pdf/10.1177/2043820613514323'}
