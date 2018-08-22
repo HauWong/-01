@@ -1,0 +1,1 @@
+name: [5]Activity patterns mining in Wi-Fi access point logs

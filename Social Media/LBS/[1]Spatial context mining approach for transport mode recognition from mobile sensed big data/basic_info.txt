@@ -1,0 +1,1 @@
+name: [1]Spatial context mining approach for transport mode recognition from mobile sensed big data

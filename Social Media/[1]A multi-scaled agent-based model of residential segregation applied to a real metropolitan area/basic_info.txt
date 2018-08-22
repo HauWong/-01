@@ -1,0 +1,1 @@
+name: [1]A multi-scaled agent-based model of residential segregation applied to a real metropolitan area

@@ -1,0 +1,1 @@
+name: [2]Assessing Completeness and Spatial Error of Features in Volunteered Geographic Information
