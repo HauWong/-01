@@ -38,10 +38,19 @@ class FileManager(object):
         self.file = 'none'
 
     def add_folder(self, str):
-        self.path, self.file = os.path.split(str)
-        if os.path.isdir(str):
+        file_path = str
+        self.path, self.file = os.path.split(file_path)
+
+        if os.path.isdir(file_path):
             return
         file_name, file_ext = self.file.split('.')
+
+        if len(file_name) > 100:
+            file_name = file_name[0:100]
+            self.file = file_name+'.'+file_ext
+            os.rename(file_path, os.path.join(self.path, self.file))
+            file_path = os.path.join(self.path, self.file)
+
         dir_ls = os.listdir(self.path)
         if file_ext != 'pdf':
             return
@@ -52,7 +61,7 @@ class FileManager(object):
         else:
             folder_name = os.path.join(self.path, file_name)
             os.mkdir(folder_name)
-            shutil.move(str, os.path.join(folder_name, self.file))
+            shutil.move(file_path, os.path.join(folder_name, self.file))
             with open(os.path.join(folder_name, 'basic_info.txt'), 'w') as txt_f:
                 info = 'name: '+file_name
                 txt_f.write(info)
@@ -75,8 +84,10 @@ class FileManager(object):
                     doc_file.paragraphs[0].text = self.file.split('.')[0]
                     doc_file.save(os.path.join(self.path, file))
 
-            os.rename(self.path, self.file.split('.')[0])
+            dest_path = os.path.join(os.path.split(self.path)[0], self.file.split('.')[0])
+            os.rename(self.path, dest_path)
             pass
+        return
 
 
 if __name__ == '__main__':
