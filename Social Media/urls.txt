@@ -19,3 +19,7 @@
 
 {'[R]Spatial Technology and Social Media in Remote Sensing - Challenges and Opportunities': 
 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8013176'}
+
+
+{'[R]Geography and the future of big data, big data and the future of geography': 
+'http://journals.sagepub.com/doi/10.1177/2043820613513121'}
