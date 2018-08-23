@@ -13,3 +13,9 @@
 
 {'Investigating the relationship between local climate': 
 ''}
+
+{'Mapping Local Climate Zones for a Worldwide Database of the Form and Function of Cities':
+''}
+
+{'Open data for global multimodal land use classification - outcome of the 2017 IEEE GRSS data fusion contest':
+''}
