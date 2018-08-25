@@ -4,3 +4,12 @@
 
 {'Classification of Local Climate Zones Based on Multiple Earth Observation Data':
 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6186793'}
+
+{'Transferring Deep Convolutional Neural Networks for the Scene Classification of High-Resolution Remote Sensing Imagery':
+'http://www.mdpi.com/2072-4292/7/11/14680'}
+
+{'[1]Hyperspectral Imagery Classification Using Sparse Representations of Convolutional Neural Network Features':
+'http://www.mdpi.com/2072-4292/8/2/99'}
+
+{'[2]Learning a Transferable Change Rule from a Recurrent Neural Network for Land Cover Change Detection':
+'http://www.mdpi.com/2072-4292/8/6/506'}
