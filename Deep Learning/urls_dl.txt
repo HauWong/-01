@@ -1,0 +1,3 @@
+
+{'Rotation equivrtiant vector field networks'
+'http://openaccess.thecvf.com/content_ICCV_2017/papers/Marcos_Rotation_Equivariant_Vector_ICCV_2017_paper.pdf'}
