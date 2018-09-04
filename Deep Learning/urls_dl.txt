@@ -13,3 +13,9 @@
 
 {'[2]Learning a Transferable Change Rule from a Recurrent Neural Network for Land Cover Change Detection':
 'http://www.mdpi.com/2072-4292/8/6/506'}
+
+{'[1]Convolutional Neural Networks for Large-Scale Remote-Sensing Image Classification':
+'https://ieeexplore.ieee.org/document/7592858/'}
+
+{'[1]Deep Learning Based Feature Selection for Remote Sensing Scene Classification':
+'https://www.researchgate.net/publication/283200405/download'}
