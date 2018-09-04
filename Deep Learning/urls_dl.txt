@@ -19,3 +19,15 @@
 
 {'[1]Deep Learning Based Feature Selection for Remote Sensing Scene Classification':
 'https://www.researchgate.net/publication/283200405/download'}
+
+{'[0]ImageNet Classification with Deep Convolutional Neural Networks.pdf':
+'https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf'}
+
+{'[5]Why is Real-World Visual Object Recognition Hard':
+'http://maths.dur.ac.uk/users/kasper.peeters/pdf/face_recognition/Survey/Pinto08WhyisObjectRecognitionHard.pdf'}
+
+{'[b]Deep Learning in Remote Sensing':
+'https://ieeexplore.ieee.org/abstract/document/8113128/'}
+
+{'[b]A Deep Feature Learning Approach to Urban Scene Classification':
+'https://webapps.itc.utwente.nl/librarywww/papers_2016/msc/gfm/bergado.pdf'}
