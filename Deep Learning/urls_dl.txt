@@ -34,3 +34,6 @@
 
 {'Off the shelf deep learning pipleline for remote sensing applications':
 'http://www.boulch.eu/files/2017_bids_esa_shelf-dl.pdf'}
+
+{'Joint Learning from Earth Observation and OpenStreetMap Data to Get Faster Better Semantic Maps':
+'https://arxiv.org/pdf/1705.06057.pdf'}
