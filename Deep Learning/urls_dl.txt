@@ -31,3 +31,6 @@
 
 {'[b]A Deep Feature Learning Approach to Urban Scene Classification':
 'https://webapps.itc.utwente.nl/librarywww/papers_2016/msc/gfm/bergado.pdf'}
+
+{'Off the shelf deep learning pipleline for remote sensing applications':
+'http://www.boulch.eu/files/2017_bids_esa_shelf-dl.pdf'}
