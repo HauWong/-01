@@ -49,3 +49,6 @@
 
 {'Triangulating social multimedia content for event localization using Flickr and Twitter': 
 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12122'}
+
+{'[1]Social Media - New Perspectives to Improve Remote Sensing for Emergency Response':
+'https://ieeexplore.ieee.org/document/7904672/'}
