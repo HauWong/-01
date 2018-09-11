@@ -52,3 +52,6 @@
 
 {'[1]Social Media - New Perspectives to Improve Remote Sensing for Emergency Response':
 'https://ieeexplore.ieee.org/document/7904672/'}
+
+{'[1]Characterizing Urban Landscapes Using Geolocated Tweets':
+'https://www.researchgate.net/publication/261505858_Characterizing_Urban_Landscapes_Using_Geolocated_Tweets'}
