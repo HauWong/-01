@@ -55,3 +55,9 @@
 
 {'[1]Characterizing Urban Landscapes Using Geolocated Tweets':
 'https://www.researchgate.net/publication/261505858_Characterizing_Urban_Landscapes_Using_Geolocated_Tweets'}
+
+{'[1]The Livehoods Project - Utilizing Social Media to Understand the Dynamics of a City':
+'https://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/download/4682/4967'}
+
+{'[1]Discovering regions of different functions in a city using human mobility and POIs':
+'https://dl.acm.org/citation.cfm?id=2339561'}
