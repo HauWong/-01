@@ -19,3 +19,6 @@
 
 {'Open data for global multimodal land use classification - outcome of the 2017 IEEE GRSS data fusion contest':
 ''}
+
+{'Multimodal, multitemporal, and multisource global data fusion for local climate zones classification based on ensemble learning':
+'http://naotoyokoya.com/assets/pdf/NYokoyaIGARSS2017.pdf'}
