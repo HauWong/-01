@@ -16,3 +16,6 @@
 
 {'Using Google Street View to Audit Neighborhood Environments': 
 'https://www.sciencedirect.com/science/article/pii/S0749379710005623'}
+
+{'From Google Maps to a fine-grained catalog of street trees':
+''}

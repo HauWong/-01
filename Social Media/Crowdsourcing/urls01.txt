@@ -4,3 +4,6 @@
 
 {'[2]Assessing Completeness and Spatial Error of Features in Volunteered Geographic Information': 
 'http://www.mdpi.com/2220-9964/2/2/507'}
+
+{'Exploring geo-tagged photos for land cover validation with deep learning':
+''}
