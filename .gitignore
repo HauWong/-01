@@ -2,3 +2,4 @@
 .idea
 ~$note.docx
 *.tmp
+.tmp.drivedownload
